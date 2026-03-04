@@ -43,5 +43,3 @@ These contain the latest cryptocurrency prices.
 |-----|------|------|------|
 | Bitcoin | $65,000 | +2.5% | $1.2T |
 
-## Author
-Your Name
